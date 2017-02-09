@@ -1,4 +1,4 @@
 # my-first-app
 Literally my first app
 
-Author: Kriti Pari
+Authors: Kriti Pari <kritipari1992@gmail.com>, Mahesha Reddy <maheshareddy0@gmail.com>
